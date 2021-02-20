@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  better_player: ^0.0.55
   flutter:
     sdk: flutter
 
